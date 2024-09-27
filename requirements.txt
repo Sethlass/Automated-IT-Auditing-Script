@@ -1,0 +1,7 @@
+os-sys # System operations and path manipulations
+subprocess # Running system commands
+hashlib # For generating hash values
+json # For handling JSON data
+paramiko==3.5.0 # SSH connections for remote server management
+re # Regular expressions for pattern matching
+datetime # For working with date and time
